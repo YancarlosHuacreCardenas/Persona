@@ -15,7 +15,13 @@ public class Persona {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        Personanoble a = new Personanoble();
+        a.yancarlos();
+        a.pregunta();
+        
+        Personanoble xd = new Personanoble();
+        xd.yancarlos();
+        xd.pregunta();
     }
     
 }
